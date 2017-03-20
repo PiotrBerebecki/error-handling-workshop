@@ -4,6 +4,7 @@
   "description": "A workshop to help deal with the perils of errors in JavaScript",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "node tests/ | tap-spec"
   },
   "author": "",
